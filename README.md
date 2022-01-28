@@ -2,8 +2,7 @@
 
 ## Preview
 
-![Portfolio Preview](https://github.com/gunmetal007/Portfolio/blob/master/portfolio.png)
+![Portfolio Preview](https://github.com/abhineet09/abhineet09.github.io/blob/main/portfolio_preview.png)
 
-**[View Live Preview](https://abhineetchaudhary.netlify.com/)**
-
+**[View Live Preview](https://abhineet09@github.io/)**
 
