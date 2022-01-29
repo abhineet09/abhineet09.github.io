@@ -131,7 +131,7 @@ img::-moz-selection{
     #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus:hover,#mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:hover{
         color:#F3A568
     }
-    #profile_img{
+    #profile-img{
         margin-left:30px;
     }
 }
@@ -254,11 +254,6 @@ header.masthead p{
     -webkit-box-shadow:0 0 0 .2rem rgba(243, 165, 104  ,.5)!important;
     box-shadow:0 0 0 .2rem rgba(243, 165, 104  ,.5)!important
 }
- #profile_img{
-     height: 15em;
-     width: 15em;
-     border-radius: 50%;
-}
 
 .pad{
     margin: 40px;
@@ -276,7 +271,23 @@ header.masthead p{
 }
 
 @media (max-width:768px){
-    #profile_img{
+    #profile-img{
         margin-left: 50%;
     }
+}
+
+#profile-section{
+    position: relative;
+    top: -80px;
+}
+#profile-img{
+    height: 60%;
+    width: 40%;
+    border-radius: 50%;
+    position: relative;
+    left: -10px;
+}
+#get-started-button{
+    position: relative;
+    top: 100px;
 }
